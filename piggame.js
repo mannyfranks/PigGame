@@ -1,5 +1,7 @@
 /*
-FileN
+Filename: piggame.js
+Date: 5/17/19
+Author: Manolis Franks
 
 GAME RULES:
 
